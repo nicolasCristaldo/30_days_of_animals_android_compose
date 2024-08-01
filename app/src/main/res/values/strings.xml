@@ -1,0 +1,178 @@
+<resources>
+    <string name="app_name">30 Days Of Animals</string>
+
+    <string name="day">Día %s</string>
+
+    <string name="animal1">Koala</string>
+    <string name="description1">El koala es un marsupial herbívoro nativo de Australia, conocido por
+        su aspecto adorable y su comportamiento tranquilo. Tiene un pelaje gris suave, orejas
+        redondeadas y una nariz grande y negra. Los koalas pasan la mayor parte del tiempo en los
+        árboles, alimentándose principalmente de hojas de eucalipto. Tienen garras fuertes y
+        afiladas para trepar y se mueven lentamente debido a su dieta baja en energía. Los koalas
+        llevan a sus crías en una bolsa ventral durante los primeros meses de vida.</string>
+
+    <string name="animal2">Oso polar</string>
+    <string name="description2">El oso polar es un mamífero grande y robusto que habita en las
+        regiones árticas. Tiene un pelaje blanco grueso que le proporciona camuflaje y aislamiento
+        térmico, y una capa de grasa bajo la piel para mantener el calor. Sus patas son anchas y
+        cubiertas de pelo, con garras afiladas para caminar sobre el hielo y cazar focas, su
+        principal fuente de alimento. Los osos polares son excelentes nadadores, capaces de recorrer
+        largas distancias en busca de comida.</string>
+
+    <string name="animal3">Zorro</string>
+    <string name="description3">El zorro es un mamífero perteneciente a la familia de los cánidos,
+        conocido por su astucia y agilidad. Tiene un cuerpo esbelto, un hocico alargado, orejas
+        puntiagudas y una cola espesa y peluda. Su pelaje varía en color, comúnmente rojo con
+        partes blancas y negras. Los zorros son omnívoros, alimentándose de pequeños mamíferos,
+        aves, frutas e insectos. Son animales solitarios y nocturnos, con un agudo sentido del oído
+        y del olfato, lo que les ayuda a cazar y a evitar depredadores.</string>
+
+    <string name="animal4">Cocodrilo</string>
+    <string name="description4">El cocodrilo es un gran reptil semiacuático conocido por su aspecto
+        prehistórico. Tiene un cuerpo robusto y alargado, cubierto de escamas duras y resistentes.
+        Su hocico es largo y lleno de dientes afilados, diseñados para atrapar y desgarrar presas.
+        Los cocodrilos tienen patas cortas y fuertes, y una cola poderosa que utilizan para nadar
+        con agilidad. Son excelentes cazadores, con una visión aguda y una capacidad para moverse
+        sigilosamente tanto en el agua como en la tierra. Viven en ríos, lagos y zonas pantanosas
+        en regiones tropicales y subtropicales.</string>
+
+    <string name="animal5">Águila calva</string>
+    <string name="description5">El águila calva es un ave rapaz icónica de Norteamérica, conocida
+        por su cabeza blanca contrastante con su cuerpo marrón oscuro. Tiene un pico grande y
+        curvado de color amarillo, ideal para desgarrar carne. Sus patas son poderosas y están
+        equipadas con garras afiladas para capturar presas. Las águilas calvas tienen una
+        envergadura impresionante, que puede alcanzar los 2,4 metros, y una vista aguda que les
+        permite detectar presas desde grandes alturas. Viven cerca de cuerpos de agua, donde cazan
+        principalmente peces.</string>
+
+    <string name="animal6">Pez payaso</string>
+    <string name="description6">El pez payaso es un pequeño pez marino conocido por sus vivos
+        colores naranja y blanco, con franjas negras. Vive en simbiosis con las anémonas de mar,
+        utilizando sus tentáculos urticantes como protección contra depredadores. El pez payaso es
+        territorial y habita en arrecifes de coral en aguas cálidas. Tiene una piel cubierta de una
+        capa de moco que le protege de las picaduras de la anémona. Son hermafroditas secuenciales,
+        lo que significa que pueden cambiar de sexo durante su vida.</string>
+
+    <string name="animal7">Tortuga marina</string>
+    <string name="description7">La tortuga marina es un reptil que habita en océanos tropicales y
+        subtropicales. Tiene un caparazón duro y aerodinámico que le proporciona protección y le
+        facilita nadar. Sus extremidades están adaptadas en forma de aletas, permitiéndole moverse
+        con agilidad en el agua. Las tortugas marinas tienen un sentido de la orientación altamente
+        desarrollado, lo que les permite migrar largas distancias entre áreas de alimentación y
+        sitios de anidación. Se alimentan de medusas, algas y pequeños invertebrados. Son conocidas
+        por su longevidad y por su ciclo de vida que incluye regresar a las playas donde nacieron
+        para poner huevos.</string>
+
+    <string name="animal8">León</string>
+    <string name="description8">El león es un mamífero carnívoro perteneciente a la familia de los
+        felinos, conocido como el "rey de la selva". Tiene un cuerpo musculoso, una melena
+        prominente en los machos y un pelaje corto de color dorado. Los leones viven en manadas
+        lideradas por uno o varios machos y cooperan en la caza, principalmente de grandes
+        herbívoros. Son conocidos por su rugido potente, que puede escucharse a varios kilómetros
+        de distancia. Las leonas son las principales cazadoras del grupo.</string>
+
+    <string name="animal9">Elefante</string>
+    <string name="description9">El elefante es el mamífero terrestre más grande del mundo, conocido
+        por su imponente tamaño y características distintivas. Tiene una piel gruesa y gris, orejas
+        grandes y flexibles que ayudan a regular su temperatura, y una trompa larga y versátil
+        utilizada para respirar, alimentarse y comunicarse. Los elefantes tienen colmillos de
+        marfil, que son dientes incisivos alargados. Son animales sociales que viven en manadas
+        lideradas por una hembra matriarca y se comunican mediante sonidos de baja frecuencia y
+        señales táctiles.</string>
+
+    <string name="animal10">Jirafa</string>
+    <string name="description10">La jirafa es el animal terrestre más alto, conocido por su largo
+        cuello y patas. Tiene un pelaje con manchas marrones irregulares sobre un fondo claro, lo
+        que le proporciona camuflaje en su hábitat. Las jirafas tienen una lengua larga y prensil
+        que usan para alimentarse de hojas de árboles altos, especialmente de acacias. Su altura y
+        su excelente visión les permiten detectar depredadores desde lejos. Viven en grupos sueltos
+        y pueden correr a velocidades de hasta 60 km/h en distancias cortas.</string>
+
+    <string name="animal11">Hipocampo</string>
+    <string name="description11">El hipocampo, también conocido como caballito de mar, es un pequeño
+        pez con una forma distintiva que recuerda a un caballo. Tiene un cuerpo cubierto de placas
+        óseas y una cola prensil que utiliza para agarrarse a las algas y corales. Su cabeza se
+        asemeja a la de un caballo, con un hocico alargado para succionar alimento, como pequeños
+        crustáceos y plancton. Los hipocampos tienen la peculiaridad de que es el macho quien lleva
+        los huevos en una bolsa ventral hasta que eclosionan. Son nadadores lentos, impulsados por
+        una aleta dorsal ondulante.</string>
+
+    <string name="animal12">Pingüino</string>
+    <string name="description12">El pingüino es un ave marina no voladora, conocida por su
+        característico plumaje blanco y negro que recuerda a un esmoquin. Tienen un cuerpo
+        aerodinámico y aletas en lugar de alas, lo que les convierte en excelentes nadadores. Sus
+        patas cortas y palmeadas están adaptadas para caminar y nadar. Los pingüinos se alimentan
+        principalmente de peces y krill, y viven en colonias numerosas en regiones frías del
+        hemisferio sur. Su grueso plumaje y una capa de grasa subcutánea les protegen del frío.
+    </string>
+
+    <string name="animal13">Tiburón</string>
+    <string name="description13">El tiburón es un pez cartilaginoso conocido por su cuerpo
+        aerodinámico y sus mandíbulas llenas de dientes afilados. Tiene una piel cubierta de
+        dentículos dérmicos que le proporciona protección y reduce la fricción en el agua. Los
+        tiburones tienen varias filas de dientes que se reemplazan constantemente. Su sentido del
+        olfato es extremadamente agudo, capaz de detectar pequeñas cantidades de sangre a gran
+        distancia.</string>
+
+    <string name="animal14">Perro</string>
+    <string name="description14">El perro es un mamífero doméstico conocido por su lealtad y
+        compañía. Existen numerosas razas con características diversas en tamaño, pelaje, color y
+        temperamento. Tienen un sentido del olfato y del oído muy desarrollados, lo que les hace
+        útiles para la caza, el rescate y la seguridad. Los perros son animales sociales que
+        establecen fuertes lazos con los humanos y otros animales. Su comunicación incluye una
+        variedad de vocalizaciones y lenguaje corporal.</string>
+
+    <string name="animal15">Camaleón</string>
+    <string name="description15">El camaleón es un reptil conocido por su capacidad de cambiar de
+        color para camuflarse, regular su temperatura y comunicarse. Tiene un cuerpo comprimido
+        lateralmente, ojos que se mueven independientemente, y una lengua larga y pegajosa para
+        atrapar insectos. Su cola prensil le ayuda a sujetarse a las ramas de los árboles. Los
+        camaleones tienen pies con dedos agrupados en conjuntos de dos y tres, adaptados para
+        trepar. Su visión es excelente, permitiéndoles detectar presas y depredadores a distancia.
+    </string>
+
+    <string name="animal16">Koala</string>
+    <string name="description16">.</string>
+
+    <string name="animal17">Koala</string>
+    <string name="description17">.</string>
+
+    <string name="animal18">Koala</string>
+    <string name="description18">.</string>
+
+    <string name="animal19">Koala</string>
+    <string name="description19">.</string>
+
+    <string name="animal20">Koala</string>
+    <string name="description20">.</string>
+
+    <string name="animal21">Koala</string>
+    <string name="description21">.</string>
+
+    <string name="animal22">Koala</string>
+    <string name="description22">.</string>
+
+    <string name="animal23">Koala</string>
+    <string name="description23">.</string>
+
+    <string name="animal24">Koala</string>
+    <string name="description24">.</string>
+
+    <string name="animal25">Koala</string>
+    <string name="description25">.</string>
+
+    <string name="animal26">Koala</string>
+    <string name="description26">.</string>
+
+    <string name="animal27">Koala</string>
+    <string name="description27">.</string>
+
+    <string name="animal28">Koala</string>
+    <string name="description28">.</string>
+
+    <string name="animal29">Koala</string>
+    <string name="description29">.</string>
+
+    <string name="animal30">Koala</string>
+    <string name="description305">.</string>
+</resources>
