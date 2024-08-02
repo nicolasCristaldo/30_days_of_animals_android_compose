@@ -82,69 +82,74 @@ object AnimalRepository {
             image = R.drawable.animal_image15
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal16,
+            description = R.string.description16,
+            image = R.drawable.animal_image16
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal17,
+            description = R.string.description17,
+            image = R.drawable.animal_image17
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal18,
+            description = R.string.description18,
+            image = R.drawable.animal_image18
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal19,
+            description = R.string.description19,
+            image = R.drawable.animal_image19
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal20,
+            description = R.string.description20,
+            image = R.drawable.animal_image20
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal21,
+            description = R.string.description21,
+            image = R.drawable.animal_image21
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal22,
+            description = R.string.description22,
+            image = R.drawable.animal_image22
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal23,
+            description = R.string.description23,
+            image = R.drawable.animal_image23
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal24,
+            description = R.string.description24,
+            image = R.drawable.animal_image24
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal25,
+            description = R.string.description25,
+            image = R.drawable.animal_image25
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal26,
+            description = R.string.description26,
+            image = R.drawable.animal_image26
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal27,
+            description = R.string.description27,
+            image = R.drawable.animal_image27
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal28,
+            description = R.string.description28,
+            image = R.drawable.animal_image28
+        ),
+        Animal(
+            name = R.string.animal29,
+            description = R.string.description29,
+            image = R.drawable.animal_image29
         ),
         Animal(
             name = R.string.animal1,

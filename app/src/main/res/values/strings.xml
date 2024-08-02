@@ -2,6 +2,8 @@
     <string name="app_name">30 Days Of Animals</string>
 
     <string name="day">Día %s</string>
+    <string name="expand_button_content_description">Ver más o menos información sobre el animal.
+    </string>
 
     <string name="animal1">Koala</string>
     <string name="description1">El koala es un marsupial herbívoro nativo de Australia, conocido por
@@ -131,48 +133,103 @@
         trepar. Su visión es excelente, permitiéndoles detectar presas y depredadores a distancia.
     </string>
 
-    <string name="animal16">Koala</string>
-    <string name="description16">.</string>
+    <string name="animal16">Abeja</string>
+    <string name="description16">La abeja es un insecto conocido por su papel crucial en la
+        polinización. Tiene un cuerpo segmentado en cabeza, tórax y abdomen, cubierto de finos
+        pelos que recogen el polen. Sus colores son generalmente negro y amarillo. Las abejas
+        tienen dos pares de alas y antenas sensibles. Viven en colonias organizadas, con una reina,
+        obreras y zánganos. Las obreras recolectan néctar y polen, construyen colmenas y cuidan a
+        las crías. Producen miel y cera, y su picadura es una defensa contra amenazas.</string>
 
-    <string name="animal17">Koala</string>
-    <string name="description17">.</string>
+    <string name="animal17">Loro</string>
+    <string name="description17">El loro es un ave colorida y sociable, conocida por su capacidad
+        para imitar sonidos y palabras. Tiene un pico curvado y fuerte, ideal para romper semillas
+        y frutos secos. Sus patas son zygodáctilas, con dos dedos hacia adelante y dos hacia atrás,
+        lo que les permite trepar y manipular objetos con destreza. Los loros tienen un plumaje
+        vibrante que varía en colores brillantes como verde, rojo, azul y amarillo. Son aves
+        inteligentes y viven en bandadas en regiones tropicales y subtropicales.</string>
 
-    <string name="animal18">Koala</string>
-    <string name="description18">.</string>
+    <string name="animal18">Sapo</string>
+    <string name="description18">El sapo es un anfibio conocido por su piel rugosa y seca, a menudo
+        cubierta de verrugas. Tiene un cuerpo robusto y patas cortas, adaptadas más para caminar y
+        saltar cortas distancias que para nadar. Los sapos son nocturnos y se alimentan de insectos
+        y otros pequeños invertebrados. Sus glándulas parotoides detrás de los ojos secretan una
+        sustancia tóxica como defensa contra depredadores. Viven en una variedad de hábitats, desde
+        bosques hasta jardines, y ponen sus huevos en el agua.</string>
 
-    <string name="animal19">Koala</string>
-    <string name="description19">.</string>
+    <string name="animal19">Mantarraya</string>
+    <string name="description19">La mantarraya es un pez cartilaginoso conocido por su gran tamaño
+        y su forma aplanada en forma de disco. Tiene aletas pectorales anchas y triangulares que se
+        extienden como alas, permitiéndole "volar" bajo el agua. Su piel es lisa y puede variar en
+        color desde gris hasta negro, a menudo con patrones únicos. Las mantarrayas tienen una cola
+        larga y delgada, a veces con una espina venenosa en algunas especies. Se alimentan de
+        plancton y pequeños peces, filtrando el agua a través de sus branquias mientras nadan.
+        Viven en océanos tropicales y subtropicales y son conocidas por su comportamiento tranquilo
+        y majestuoso.</string>
 
-    <string name="animal20">Koala</string>
-    <string name="description20">.</string>
+    <string name="animal20">Tigre</string>
+    <string name="description20">El tigre es el felino más grande del mundo, conocido por su pelaje
+        anaranjado con rayas negras. Tiene un cuerpo musculoso, una cabeza grande y poderosas patas
+        con garras retráctiles. Sus ojos tienen una visión excelente, especialmente en la oscuridad.
+        Los tigres son cazadores solitarios y territoriales, se alimentan de grandes presas como
+        ciervos y jabalíes. Su rugido puede escucharse a varios kilómetros de distancia. Habitan en
+        diversos entornos, desde selvas tropicales hasta bosques templados y manglares.</string>
 
-    <string name="animal21">Koala</string>
-    <string name="description21">.</string>
+    <string name="animal21">Anguila</string>
+    <string name="description21">La anguila es un pez alargado y serpentino, conocido por su cuerpo
+        flexible y sin escamas, cubierto de una capa de mucosidad que le facilita moverse por el
+        agua. Tiene aletas pequeñas y una aleta dorsal que se extiende a lo largo de su espalda.
+        Las anguilas pueden vivir en agua dulce y salada, y algunas especies migran largas
+        distancias para reproducirse. Se alimentan de peces pequeños, crustáceos y moluscos. Las
+        anguilas tienen una capacidad eléctrica en algunas especies, utilizada para cazar y
+        defenderse.</string>
 
-    <string name="animal22">Koala</string>
-    <string name="description22">.</string>
+    <string name="animal22">Ballena</string>
+    <string name="description22">La ballena es un mamífero marino de gran tamaño, conocido por su
+        cuerpo alargado y su piel lisa. Existen dos tipos principales: las ballenas con dientes,
+        como el cachalote, y las ballenas barbadas, como la ballena azul. Tienen una capa gruesa
+        de grasa llamada blubber, que les proporciona aislamiento térmico. Las ballenas respiran a
+        través de un orificio en la parte superior de la cabeza llamado espiráculo y se alimentan
+        de plancton, krill y peces. Son migratorias y conocidas por sus complejas vocalizaciones,
+        especialmente las ballenas jorobadas.</string>
 
-    <string name="animal23">Koala</string>
-    <string name="description23">.</string>
+    <string name="animal23">Liebre</string>
+    <string name="description23">La liebre es un mamífero conocido por su agilidad y velocidad.
+        Tiene un cuerpo esbelto, patas traseras largas y poderosas que le permiten correr
+        rápidamente y hacer saltos grandes. Sus orejas son largas y móviles, lo que le ayuda a
+        detectar depredadores. A diferencia de los conejos, las liebres nacen con los ojos abiertos
+        y con pelaje. Son animales solitarios que prefieren campos abiertos y praderas. Se alimentan
+        de hierbas, brotes y corteza.</string>
 
-    <string name="animal24">Koala</string>
-    <string name="description24">.</string>
+    <string name="animal24">Carpincho</string>
+    <string name="description24">El carpincho, también conocido como capibara, es el roedor más
+        grande del mundo. Tiene un cuerpo robusto, patas cortas y una cabeza grande con un hocico
+        romo. Su piel es gruesa y marrón, adaptada a su hábitat acuático. Son excelentes nadadores
+        y pasan mucho tiempo en el agua para evitar depredadores y mantenerse frescos. Los
+        carpinchos son herbívoros, alimentándose de hierbas, plantas acuáticas y cortezas. Viven
+        en grupos sociales y habitan en zonas pantanosas y riberas de ríos en América del Sur.
+    </string>
 
-    <string name="animal25">Koala</string>
-    <string name="description25">.</string>
+    <string name="animal25">Murciélago</string>
+    <string name="description25">El murciélago es el único mamífero capaz de volar. Tiene un cuerpo
+        pequeño y ligero, cubierto de pelo, y alas formadas por una fina membrana estirada entre los
+        dedos alargados de sus manos. Los murciélagos usan la ecolocación para navegar y cazar
+        insectos en la oscuridad, emitiendo sonidos y escuchando los ecos. Se alimentan de insectos,
+        frutas, néctar, y algunos incluso de sangre. Habitan en cuevas, árboles y edificios. Son
+        importantes polinizadores y controladores de plagas.</string>
 
-    <string name="animal26">Koala</string>
+    <string name="animal26">Libélula</string>
     <string name="description26">.</string>
 
-    <string name="animal27">Koala</string>
+    <string name="animal27">Gorila</string>
     <string name="description27">.</string>
 
-    <string name="animal28">Koala</string>
+    <string name="animal28">Escarabajo</string>
     <string name="description28">.</string>
 
-    <string name="animal29">Koala</string>
+    <string name="animal29">Cobra</string>
     <string name="description29">.</string>
 
-    <string name="animal30">Koala</string>
-    <string name="description305">.</string>
+    <string name="animal30">Cangrejo</string>
+    <string name="description30">.</string>
 </resources>
