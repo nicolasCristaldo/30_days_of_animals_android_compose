@@ -219,17 +219,47 @@
         importantes polinizadores y controladores de plagas.</string>
 
     <string name="animal26">Libélula</string>
-    <string name="description26">.</string>
+    <string name="description26">a libélula es un insecto conocido por su vuelo ágil y sus colores
+        vibrantes. Tiene un cuerpo alargado y delgado, grandes ojos compuestos que le proporcionan
+        una visión casi panorámica, y dos pares de alas transparentes y fuertes. Las libélulas son
+        depredadoras eficaces, alimentándose de otros insectos como mosquitos y moscas. Viven cerca
+        de cuerpos de agua, donde sus larvas acuáticas, conocidas como ninfas, se desarrollan. Su
+        capacidad de vuelo rápido y maniobrable les permite cazar con precisión y evitar
+        depredadores.</string>
 
     <string name="animal27">Gorila</string>
-    <string name="description27">.</string>
+    <string name="description27">El gorila es un primate de gran tamaño y fuerza, conocido por su
+        comportamiento social y su inteligencia. Tiene un cuerpo robusto cubierto de pelo negro o
+        marrón oscuro, y una cara desnuda con una mandíbula prominente. Los gorilas caminan sobre
+        sus nudillos y tienen brazos largos y fuertes adaptados para trepar. Viven en grupos
+        liderados por un macho dominante conocido como el "espalda plateada". Su dieta es mayormente
+        herbívora, basada en hojas, frutas y tallos. Habitan en bosques tropicales y montañosos de
+        África central.</string>
 
     <string name="animal28">Escarabajo</string>
-    <string name="description28">.</string>
+    <string name="description28">El escarabajo es un insecto con un cuerpo robusto y una cubierta
+        dura conocida como élitros que protege sus delicadas alas traseras. Tiene un par de antenas
+        que usa para explorar su entorno y piezas bucales masticadoras. Los escarabajos varían
+        enormemente en tamaño y color, desde los diminutos y brillantes hasta los grandes y oscuros.
+        Son adaptables y se encuentran en casi todos los hábitats, incluyendo bosques, campos y
+        desiertos. Su dieta puede incluir hojas, madera, otros insectos y materia en descomposición.
+    </string>
 
     <string name="animal29">Cobra</string>
-    <string name="description29">.</string>
+    <string name="description29">La cobra es una serpiente venenosa conocida por su capacidad de
+        expandir una capucha alrededor de su cabeza cuando se siente amenazada. Tiene un cuerpo
+        largo y delgado cubierto de escamas lisas, y puede variar en color desde marrón hasta negro.
+        Las cobras son famosas por su postura erguida y por sus mordeduras venenosas, que pueden ser
+        mortales. Se alimentan de pequeños mamíferos, aves y otros reptiles. Habitan en diversas
+        regiones, desde selvas hasta desiertos, principalmente en Asia y África. Son cazadoras
+        diurnas y nocturnas y utilizan su veneno tanto para cazar como para defenderse.</string>
 
     <string name="animal30">Cangrejo</string>
-    <string name="description30">.</string>
+    <string name="description30">El cangrejo es un crustáceo con un caparazón duro que protege su
+        cuerpo. Tiene diez patas, las dos delanteras transformadas en pinzas que usa para
+        alimentarse, defenderse y comunicarse. Los cangrejos tienen ojos compuestos situados en
+        tallos móviles y antenas sensibles para detectar su entorno. Su cuerpo es generalmente ancho
+        y aplanado. Son omnívoros, alimentándose de algas, pequeños animales y restos orgánicos.
+        Viven en ambientes marinos, de agua dulce y en tierra cerca del agua. Se desplazan
+        lateralmente y son conocidos por sus complejos comportamientos sociales.</string>
 </resources>
