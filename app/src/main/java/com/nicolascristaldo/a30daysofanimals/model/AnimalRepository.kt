@@ -152,9 +152,9 @@ object AnimalRepository {
             image = R.drawable.animal_image29
         ),
         Animal(
-            name = R.string.animal1,
-            description = R.string.description1,
-            image = R.drawable.animal_image1
+            name = R.string.animal30,
+            description = R.string.description30,
+            image = R.drawable.animal_image30
         )
     )
 }
